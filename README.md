@@ -26,7 +26,8 @@ The library Used include: Numpy, Pandas, Matplotlib, Seaborn and Scikit-learn
 
 The data was first cleaned: by filling the missing values, exploring duplicates and irrelevant information.
 Then data visualization was incorporated to show the relationship of the variables
-<img width="322" alt="fat_content" src="https://user-images.githubusercontent.com/97409151/156869182-7e9059f2-8919-4e35-8fd4-464721a77701.PNG">
+
+
 
 Summary
 -Based on the Data Visualizations of the data set: 
