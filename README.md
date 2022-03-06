@@ -2,6 +2,9 @@
 
 #This project analyzes a dataset of Various Items sold at different stores.
 
+[FOOD SALES PREDICTION.pptx](https://github.com/maryawamaitha/A-Food-Sales-PredictionsProject/files/8191870/FOOD.SALES.PREDICTION.pptx)
+
+
 #The aim of the analysis is to help a retailer planning to open a store on the factors to consider when setting up and which Items to sell based on existing sales.
 
 The dataset includes: 
@@ -26,6 +29,24 @@ The library Used include: Numpy, Pandas, Matplotlib, Seaborn and Scikit-learn
 
 The data was first cleaned: by filling the missing values, exploring duplicates and irrelevant information.
 Then data visualization was incorporated to show the relationship of the variables
+
+From the dataset:The following questions were addressed?
+
+How does the Outlet type affect the Outlet sales?
+
+It was evident Supermarket 3 had highest sales while the grocery store had the least sales.
+
+<img width="323" alt="supermarket" src="https://user-images.githubusercontent.com/97409151/156907378-d5a6f702-3871-44db-a345-2f836dfc0921.PNG">
+
+How does the Oulet location affect the Outlet sales?
+
+Location Teir 2 had the highest Sales.
+
+<img width="384" alt="Location" src="https://user-images.githubusercontent.com/97409151/156907407-e6164bac-832b-405e-ad94-9cd4bd3d4126.PNG">
+
+Which Fat_content was more popular(regular vs low fat)?
+
+<img width="322" alt="fat_content" src="https://user-images.githubusercontent.com/97409151/156907446-36b846b7-4ca4-4d4b-997d-5ac955eaa2b5.PNG">
 
 
 
