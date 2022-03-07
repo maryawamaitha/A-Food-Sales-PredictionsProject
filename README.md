@@ -2,17 +2,20 @@
 
 #This project analyzes a dataset of Various Items sold at different stores.
 
-[FOOD SALES PREDICTION.pptx](https://github.com/maryawamaitha/A-Food-Sales-PredictionsProject/files/8191870/FOOD.SALES.PREDICTION.pptx)
+
+
+https://user-images.githubusercontent.com/97409151/156948023-09d655a5-80f9-496a-ae3a-c5f404a2429d.mp4
+
 
 
 #The aim of the analysis is to help a retailer planning to open a store on the factors to consider when setting up and which Items to sell based on existing sales.
 
 The dataset includes: 
 
-    Store location
-    Store Type
-    Store Size
-    Store establishment year
+    Outlet location
+    Outlet Type
+    Outlet Size
+    Outlet establishment year
 
 Item variables :
 
