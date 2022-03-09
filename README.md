@@ -4,8 +4,7 @@
 
 
 
-https://user-images.githubusercontent.com/97409151/156948023-09d655a5-80f9-496a-ae3a-c5f404a2429d.mp4
-
+[FOOD SALES PREDICTION.pptx](https://github.com/maryawamaitha/A-Food-Sales-PredictionsProject/files/8211221/FOOD.SALES.PREDICTION.pptx)
 
 
 #The aim of the analysis is to help a retailer planning to open a store on the factors to consider when setting up and which Items to sell based on existing sales.
@@ -58,6 +57,7 @@ Summary
 1. Supermarket 3 had the highest sales and Location [tier 2] had the highest sales.
 2. The grocery stores had the least sales.
 3. Items with low fat content were more popular.
+
 
 Machine Learning 
 To make future prediction on the sales, the data was analysed as Supervised Learning.the training data contains all data variables while test data contains all the variables except the Item Outlet sales(target), which is to be predicted
